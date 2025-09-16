@@ -45,7 +45,7 @@ Brain-Tumor-Classification/
 ```bash
 cd backend
 pip install -r requirements.txt
-uvicorn main:app --reload
+python main.py
 ```
 
 ### Frontend
@@ -61,7 +61,7 @@ npm run dev
 
 1. Start the backend server:
    ```bash
-   uvicorn main:app --reload
+   python main.py 
    ```
    - Endpoint: `POST /infer` (accepts image, returns prediction).
 
