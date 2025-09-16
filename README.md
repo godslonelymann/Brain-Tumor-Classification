@@ -1,4 +1,19 @@
-# 🧠 Brain Tumor Classification
+## MediScan Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/eR0oJ0v-PkE/0.jpg)](https://www.youtube.com/watch?v=eR0oJ0v-PkE)
+
+
+# 🧠 MediScan - Brain Tumor Classification Tool
+
+> Built as part of the **Cognizant NPN Hackathon Program** 🎯
+
+**Team Members**
+1. Anurag Gaikwad
+2. Niral Shah
+3. Joya Tamboli
+4. Payal Sarode
+5. Rushikesh Waghmare
+6. Yashvardhan Jadhav 
 
 A full‑stack deep learning project for **classifying brain MRI scans** into tumor types.  
 It combines a **ResNet50 CNN model**, a **FastAPI backend**, and a **Next.js + Tailwind frontend**.
