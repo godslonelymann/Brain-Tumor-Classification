@@ -5,7 +5,7 @@
 
 # 🧠 MediScan - Brain Tumor Classification Tool
 
-> Built as part of the **Cognizant NPN Hackathon Program** 🎯
+Built as part of the **Cognizant NPN Hackathon Program**
 
 **Team Members**
 1. Anurag Gaikwad
